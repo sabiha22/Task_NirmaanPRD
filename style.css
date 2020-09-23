@@ -1,0 +1,73 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background-color: darkslategray;
+    background-image: url("https://cdn.winsightmedia.com/platform/files/public/2019-05/background/600x450/giving-hearts-hands-shutterstock_1556823455.jpg?r0UB1Jy1RR3ijOz4OwoTiWDQnz.LQsYN");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.8;
+}
+.navbar{
+    color: black;
+    background-color:  #fdd835  ;
+}
+.nav-item{
+    color: white;
+    display: block;
+}
+
+.view{
+    justify-content: center;
+}
+.col-md-10{
+    display:grid;
+    justify-content: space-around;
+    color: black;
+    padding-top: 170px;
+    text-shadow: 2px 2px 5px;
+}
+.btn-outline-white {
+	color: #fff !important;
+	background-color: transparent !important;
+	border: 2px solid #fff !important
+}
+.container-fluid {
+	width: auto
+}
+.white-text {
+	color: #fff !important
+}
+
+.primary-color{
+    background-color: #0d47a1;
+}
+
+.page-footer{
+    background-color: #1c2331;
+    color: ivory;
+}
+.side{
+    display: flex;
+    justify-content: center;
+}
+.form-sm{
+    padding-top: 10px;
+}
+.img-fluid{
+    height: 250px;
+    width: 400px;
+}
+.col-md-6{
+    box-shadow: silver;
+}
+.orange-text {
+	color: #ff9800
+}
+
